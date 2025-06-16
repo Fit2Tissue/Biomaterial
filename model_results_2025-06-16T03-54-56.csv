@@ -1,0 +1,14 @@
+﻿
+File Name,Model,Optimized Parameters,RMSE
+"Subject112_Sample4_YoungDorsal_Equibiaxial.csv","Mooney-Rivlin","C10: 0.8105 | C01: 0","0.2267"
+"Subject203_Sample2_AgedDorsal_Equibiaxial.csv","Mooney-Rivlin","C10: 0.5725 | C01: 0","0.1648"
+"Subject203_Sample8_AgedVentral_Equibiaxial.csv","Mooney-Rivlin","C10: 0.4499 | C01: 0","0.1567"
+"Subject113_Sample7_YoungVentral_Equibiaxial.csv","Mooney-Rivlin","C10: 0.1925 | C01: 0","0.051"
+
+
+# Details:
+Description: A mechanical test file with stress and strain for a biomaterial
+Author: name
+Publication Link: link
+Experimental Details : Strain rate, DIC, etc
+Tags: biomaterial,polymer
